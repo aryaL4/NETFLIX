@@ -1,0 +1,358 @@
+.first-section {
+    /* background-image: url(images/netflix.jpg); */
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    font-family: sans-serif;
+   background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(images/netflix.jpg) 
+}
+
+.logo img {
+    height: 100px;
+    width: 200px;
+    margin-left: -150px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.select1 {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    background: transparent;
+}
+
+button {
+    width: 80px;
+    height: 35px;
+    background-color: rgb(241, 4, 4);
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.start {
+    background-color: rgb(241, 4, 4);
+    border-radius: 5px;
+    width: 130px;
+    height: 45px;
+
+}
+
+.content {
+    text-align: center;
+    color: white;
+    padding: 120px;
+}
+
+.content h1 {
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+.content h3 {
+    font-weight: lighter;
+    font-size: 1.5rem;
+    word-spacing: -1px;
+    text-transform: capitalize;
+}
+
+.content h4 {
+    font-weight: 50;
+    font-size: 1.3rem;
+    word-spacing: .5px;
+
+}
+
+input {
+    width: 320px;
+    /* height: 50px; */
+    padding: 2% 0% 2% 1% ;
+    border-radius: 5px;
+    /* padding-left: 2%; */
+    text-transform: capitalize;
+    color: rgb(87, 82, 82);
+  background-color: transparent;
+  font-weight: 300;
+}
+
+.start {
+    width: 200px;
+    height: 60px;
+    /* padding : 2% 0% 2% 1% ; */
+
+    border-radius: 5px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 50;
+    font-size: 1.3rem;
+}
+
+hr {
+    height: 10px;
+    background-color: rgb(43, 42, 42);
+    margin-top: -11px;
+    width: 100vw;
+}
+
+.secondsection {
+    background-color: black;
+    width: 100vw;
+    height: 90vh;
+    margin-top: -10px;
+    font-family: sans-serif;
+}
+
+.text {
+    color: white;
+    padding: 90px;
+    margin-top: 80px;
+    letter-spacing: -1px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-around;
+    /* position: absolute; */
+    font-size: 1.6rem;
+}
+
+.parent img {
+    width: 30%;
+    height: 30%;
+    margin-right: 100px;
+    margin-top: 90px;
+}
+.parent1 img {
+    width: 500px;
+    height: 350px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.parent1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text2 {
+    color: white;
+    padding-top: 100px;
+    /* position: absolute; */
+    font-size: 1.6rem;
+    margin-right: 10%;
+
+}
+
+.parent2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text3 {
+    color: white;
+    font-size: 1.6rem;
+    margin-top: 130px;
+    word-spacing: -1px;
+    margin-left: 80px;
+}
+
+.parent2 img {
+    width: 80%;
+    margin-top: 50px;
+}
+
+.parent3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text4 {
+    color: white;
+    font-size: 1.6rem;
+    word-spacing: -1px;
+    margin-top: 50px;
+    margin-right: 200px;
+    padding: .5rem;
+
+}
+
+.parent3 img {
+    height: 90%;
+    width: 70%;
+    margin-top: 50px;
+    margin-left: 100px;
+}   
+
+.sixth-section {
+    background-color: black;
+    width: 100vw;
+    height: 150vh;
+    margin-top: -33px;
+    font-family: sans-serif;
+}
+
+.main-heading {
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 3rem;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.content3 {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(209, 187, 187);
+    height: 4.5rem;
+    width: 67%;
+    background-color: rgb(63, 61, 61);
+    margin-top: .5rem;
+    margin-left: 15rem;
+position: relative;
+}
+
+.first-part {
+    margin-top: 30px;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-left: 20px;
+    text-align: center;
+
+}
+
+.icon {
+    margin: 3% 3%;
+}
+
+.boxes {
+    margin-top: -20px;
+}
+select
+
+.content3:hover {
+    background-color: rgb(104, 97, 97);
+}
+
+.sixthsection-bottom {
+    margin-left: 30%;
+}
+
+.mail {
+    color: white;
+    font-weight: 50;
+    font-size: 1.3rem;
+    word-spacing: .5px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.sixthsection-bottom input {
+    margin-left: 5%;
+}
+
+button:hover {
+    background-color: rgb(144, 10, 10);
+}
+
+.seventh-section {
+    background-color: black;
+    width: 100vw;
+    height: 70vh;
+    margin-top: -10px;
+    font-family: sans-serif;
+    color: rgb(231, 225, 225);
+    list-style-type: none;
+}
+
+.three-section {
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    padding: 3rem;
+    word-spacing: 1px;
+    letter-spacing: .5px;
+    margin-right: 9%;
+    font-size: 15px;
+}
+
+.footer {
+    margin-left: 11.1%;
+}
+
+.footer select {
+    width: 8rem;
+    background-color: rgb(12, 12, 12);
+    color: white !important;
+}
+
+li {
+    padding: 10px;
+}
+
+.second-content {
+    margin-top: 50px;
+    margin-right: 10%;
+}
+
+.third-content {
+    margin-top: 46px;
+    margin-right: 10%;
+
+}
+
+.footer {
+    font-size: 15px;
+
+}
+/* @media screen and (min-width:576px){
+    
+} 
+@media screen and(min-width:768px) {
+    
+}
+@media screen and(min-width:992px) {
+    
+}
+     */
+     
+.dropdown-toggle {
+    display: none;
+  }
+  
+  .plus-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .dropdown-content {
+    display: none;
+    /* Additional styles for the dropdown content */
+  }
+  
+  .dropdown-toggle:checked ~ .dropdown-content {
+    display: block;
+  }

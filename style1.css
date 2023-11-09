@@ -1,0 +1,173 @@
+.sign-in {
+   background: linear-gradient(to top, rgba(9, 9, 9, 0.5)50%,rgba(0, 0, 0, 0.5)50%),url(images/netflix.jpg) ;
+    height: 148vh;
+    background-size: cover;
+    font-family: sans-serif;
+    width: 97.7vw;
+
+}
+
+.logo1 img {
+    height: 90px;
+    width: 200px;
+    /* margin-left: -150px; */
+}
+
+.main-signin {
+    height: 80vh;
+    width: 30vw;
+    background-color: rgba(52, 48, 48, 0.75);
+    color: white;
+    margin-top: 10px;
+    margin-left: 500px;
+    padding: 10px;
+}
+
+.heading {
+    /* padding: 20px; */
+    margin-left: 11%;
+}
+
+button {
+    width: 82%;
+    height: 10%;
+    background-color: red;
+    margin-left: 50px;
+    color: white;
+    font-weight: 800;
+    font-size: 17px;
+    padding: 5px;
+    border-radius: 5px;
+
+
+}
+
+.two-section {
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    color: rgb(130, 127, 127);
+}
+
+.input-type-rememberme {
+    position: relative;
+    margin-right: -8%;
+    margin-top: -10px;
+}
+
+.email {
+    width: 78%;
+    height: 8%;
+    background-color: rgba(85, 77, 77, 0.75);
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.password {
+    width: 78%;
+    height: 8%;
+    background-color: rgba(85, 77, 77, 0.75);
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.para {
+    margin-top: -19px;
+    margin-left: 110px;
+}
+
+.para:hover {
+    text-decoration: underline;
+}
+
+.signin-last-netflix {
+    display: flex;
+    margin-left: 50px;
+    font-size: 18px;
+
+}
+
+.signin-frd {
+    margin-left: 50px;
+    /* display: flex;  */
+}
+
+.new-netflix {
+    color: rgb(182, 169, 169);
+}
+
+.signin-frd {
+    color: rgb(137, 133, 133);
+}
+
+.footer-section {
+    height: 43.5vh;
+    width: 97.7vw;
+    background-color: rgba(52, 48, 48, 0.75);
+    color: rgb(137, 133, 133);
+}
+
+.last-section {
+    justify-content: space-around;
+    display: flex;
+}
+
+ul:hover {
+    text-decoration: underline;
+}
+
+.signup {
+    color: white;
+    text-decoration: none;
+}
+
+.signup:hover {
+    text-decoration: underline;
+}
+
+.learnmore {
+    color: rgb(0, 115, 255);
+    text-decoration: none;
+}
+
+.learnmore:hover {
+    text-decoration: underline;
+}
+
+.number {
+    color: rgb(137, 133, 133);
+    text-decoration: none;
+}
+
+.number:hover {
+    color: rgb(137, 133, 133);
+    text-decoration: underline;
+}
+
+.second-list {
+    margin-top: 80px;
+}
+
+.third-list {
+    margin-top: 80px;
+}
+
+.fourth-list {
+    margin-top: 80px;
+}
+
+.footer {
+    margin-left: 9.3%;
+}
+
+.footer select {
+    width: 8rem;
+    background-color: rgb(12, 12, 12);
+    color: white !important;
+    height: 40px;
+}
